@@ -1,1 +1,3 @@
-# modeling_nfl_attendance
+# Modeling NFL Attendance
+
+Project for SAL 213
